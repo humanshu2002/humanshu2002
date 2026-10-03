@@ -46,10 +46,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/humanshu-arora-1413ba201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humanshu-arora-1413ba201" height="30" width="40" /></a>
-  <a href="https://github.com/humanshu2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="humanshu2002" height="30" width="40" /></a>
-  <a href="mailto:humanshuarora9@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="humanshuarora9@gmail.com" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/humanshu-arora-1413ba201" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://github.com/humanshu2002" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="mailto:humanshuarora9@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+</p>
 
-**Visitor Count**-  
-![Visitor Count](https://profile-counter.glitch.me/humanshu2002/count.svg)
+<p align="left">
+  <strong>Visitor Count</strong> —
+  <img src="https://komarev.com/ghpvc/?username=humanshu2002&label=views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
