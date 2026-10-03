@@ -21,6 +21,7 @@
 
 - Architected and built **component-service** from scratch (**Dropwizard**, **OpenAPI**, **MongoDB**, **Kafka**) — **PURL** upsert APIs and async enrichment for **SSCA Manager** and other modules (**100+** enterprise accounts).
 - Built **component-analysis-service** — **SBOM dependency graphs**, **SCM remediation** (preview, PR open/close/status) on **GitHub**, **Harness Code**, and **GitX** for **AI remediation** workflows.
+- Implemented **signing and attestation** for **container and non-container** artifacts — **key-based** signing, **keyless** (**OIDC**-backed) workflows, or signing keys in **HashiCorp Vault** and **GCP KMS**.
 - Built an **agentic remediation agent** (**Go** CI plugin): **CVEs** from **SAST/SCA**, blast-radius analysis, enrichment, and fix flows via **SSCA Manager** + **component-analysis-service**.
 - Own **production ops** for **3 SSCA microservices** — **Prometheus/Grafana**, **Helm**, **Bazel/CI**, prod and pre-prod releases.
 - Shipped **Artifact V2** (canonical SSCA identity, **fingerprint** matching, **6+** registry types) and extended **SBOM orchestration** / **Go SSCA plugins** (**ACR**, **GAR**, **Harness Artifact Registry**).
@@ -33,7 +34,7 @@
 - Refactored artifact **OpenAPI/JAX-RS** APIs and MongoDB paths — **~65%** faster on high-traffic supply-chain views.
 - Integrated [**Syft**](https://github.com/anchore/syft), [**cdxgen**](https://github.com/cdxgen/cdxgen), and **sbomqs** into the **Go SSCA plugin** for SBOM generation and quality scoring in **Harness CI**.
 
-#### 03/2023 — 05/2023 · Research Intern @ Aarhus University (remote) · with IIIT Lucknow
+#### 03/2023 — 05/2023 · Research Intern @ [Aarhus University](https://international.au.dk/) (remote) · with IIIT Lucknow
 
 - **C++** compression and analytics for **IoT** sensor streams — up to **~50%** smaller stored payloads.
 - Code: [Compressed-Data-Analytics-for-IOT/Final](https://github.com/Compressed-Data-Analytics-for-IOT/Final)
