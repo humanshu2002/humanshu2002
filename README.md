@@ -45,6 +45,13 @@
 - **JEE** — **99th percentile** among **1M+** candidates (India).
 - **Codekaze** (06/2023) — All-India rank **2659**; **650+** DSA problems on competitive platforms.
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=java,go,c,cpp,mongodb,kafka,docker,kubernetes,aws,gcp,azure,git,linux,gradle,bash,prometheus,helm,elasticsearch&perline=9" alt="Languages and tools" />
+  </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/humanshu-arora-1413ba201" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
